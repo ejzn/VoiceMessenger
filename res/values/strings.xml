@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, VoiceMessenger!</string>
+    <string name="app_name">Voice Messenger</string>
+    <string name="contact_app">Contacts List</string>
+    <string name="contacts">Contacts</string>
+    <string-array name="contact_names">
+        <item>Andrew French</item>
+        <item>Thomas Nute</item>
+        <item>Erik Johnson</item>
+        <item>Hosni Mubarak</item>
+        <item>Stephen Harper</item>
+        <item>Barack Obama</item>
+        <item>Nicolas Szarkosy</item>
+    </string-array>
+</resources>

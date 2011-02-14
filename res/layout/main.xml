@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget35"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<ScrollView
+android:layout_y="30px" android:layout_width="match_parent" android:layout_height="275px" android:layout_x="0px" android:clickable="true" android:id="@+id/contactView">
+</ScrollView>
+
+
+<Button android:text="Contacts" android:id="@+id/button4" android:layout_height="50px" android:layout_width="match_parent" android:layout_x="0dip" android:layout_y="50dip"></Button>
+<Button android:text="Record your message" android:id="@+id/button1" android:layout_height="50px" android:layout_width="match_parent" android:layout_x="0dip" android:layout_y="110dip"></Button>
+<Button android:text="Stop" android:id="@+id/button2" android:layout_height="50px" android:layout_width="match_parent" android:layout_x="0dip" android:layout_y="170dip"></Button>
+<Button android:text="Send" android:id="@+id/button3" android:layout_height="50px" android:layout_width="match_parent" android:layout_x="0dip" android:layout_y="230dip"></Button>
+</AbsoluteLayout>
